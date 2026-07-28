@@ -9,7 +9,8 @@ Here is my current updated and maintained projects.
   </tr>
   <tr>
     <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-ai-chat.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard.png?raw=true" width="240"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-inventory.png?raw=true" width="240"></td>
   </tr>
   <tr>
     <th>Beco da Praia Menu</th>
