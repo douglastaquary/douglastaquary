@@ -5,7 +5,7 @@ Here is my current updated and maintained projects.
 <table>
   <tr>
     <th>Checklist Boteco</th>
-    <th>Managing bars and pubs</th>
+    <th>Dashboard</th>
     <th>Daily product count</th>
     <th>Upload purchase receipts</th>
     <th>More menu</th>
@@ -19,7 +19,7 @@ Here is my current updated and maintained projects.
   </tr>
   <tr>
     <th>Beco da Praia Menu</th>
-    <th>Beco's online menu</th>
+    <th>Detail Menu</th>
     <th>Shopping Cart</th>
     <th>Pix Payment</th>
     <th>Order Confirmed</th>
@@ -37,9 +37,8 @@ Here is my current updated and maintained projects.
 * [Beco da Praia Menu](https://github.com/douglastaquary/beco-da-praia-menu/tree/feature/pedidos-cardapio-impressao) Beco's online menu featuring direct table-side ordering.
 
 
-
 Follow me on: 
 * Twitter: `https://x.com/bluesprogrammer`
 * Mastodon: `https://mastodon.social/@bluesprogrammer`
 
-[![Taquary's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglastaquary&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Taquary's GitHub stats](https://github-stats-extended.vercel.app/api?username=douglastaquary)](https://github.com/stats-organization/github-stats-extended)
