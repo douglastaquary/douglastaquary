@@ -33,7 +33,7 @@ Here is my current updated and maintained projects.
   </tr>
 </table>
 
-* [Checklist Boteco](https://github.com/douglastaquary/checklist-boteco) App for managing bars and pubs.
+* [Checklist Boteco](https://github.com/douglastaquary/checklist-boteco) AI-powered app for managing bars and pubs.
 * [Beco da Praia Menu](https://github.com/douglastaquary/beco-da-praia-menu/tree/feature/pedidos-cardapio-impressao) Beco's online menu featuring direct table-side ordering.
 
 
