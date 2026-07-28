@@ -8,16 +8,16 @@ Here is my current updated and maintained projects.
     <th>App for managing bars and pubs where the owner is still involved in daily operations</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-ai-chat.png?raw=true" width="400"></td>
-    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-ai-chat.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard.png?raw=true" width="320"></td>
   </tr>
   <tr>
     <th>Beco da Praia Menu</th>
     <th>Beco's online menu featuring direct table-side ordering and local kitchen printing via Raspberry Pi</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/01-cardapio.png?raw=true" width="400"></td>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/04-pix-pagamento.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/01-cardapio.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/04-pix-pagamento.png?raw=true" width="320"></td>
   </tr>
 </table>
 
