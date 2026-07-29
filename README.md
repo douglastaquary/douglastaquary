@@ -11,8 +11,8 @@ Here is my current updated and maintained projects.
     <th>More menu</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-ai-chat.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-chat-ai-response.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-dashboard-update.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-inventory.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-purchases.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/checklist-boteco/blob/main/docs/assets/readme/ios-more.png?raw=true" width="320"></td>
