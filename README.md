@@ -25,11 +25,11 @@ Here is my current updated and maintained projects.
     <th>Order Confirmed</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/01-cardapio.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/02-detalhe-item.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/03-carrinho.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/04-pix-pagamento.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/feature/pedidos-cardapio-impressao/docs/screenshots/06-sucesso-cozinha.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/01-cardapio.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/02-detalhe-item.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/03-carrinho.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/04-pix-pagamento.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/06-sucesso-cozinha.png?raw=true" width="320"></td>
   </tr>
 </table>
 
