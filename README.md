@@ -31,10 +31,20 @@ Here is my current updated and maintained projects.
     <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/04-pix-pagamento.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/06-sucesso-cozinha.png?raw=true" width="320"></td>
   </tr>
+    <tr>
+    <th>Mobile Play</th>
+    <th>Start mission</th>
+    <th>Foundry Combat</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/mobile-play.png?raw=true" width="320"></td>
+    <td><img src=https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/mobile-title.png?raw=true" width="320"></td>
+    <td><img src=https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/foundry-combat.png?raw=true" width="320"></td>
 </table>
 
 * [Checklist Boteco](https://github.com/douglastaquary/checklist-boteco) AI-powered app for managing bars and pubs.
 * [Beco da Praia Menu](https://github.com/douglastaquary/beco-da-praia-menu/tree/feature/pedidos-cardapio-impressao) Beco's online menu featuring direct table-side ordering.
+* [Metal Warriors Retro](https://github.com/douglastaquary/metal-warriors-demo) Game Retro em rolagem lateral, com a alma dos 16 bits. Uma homenagem a Metal Warriors (SNES) feita em Three.js e jogável direto no navegador.
 
 
 Follow me on: 
