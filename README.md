@@ -47,9 +47,9 @@ Here is my current updated and maintained projects.
 </tr>
     <tr>
     <th>Live Service</th>
-    <th>Start mission</th>
-    <th>Mobile Boss</th>
-    <th>Foundry Combat</th>
+    <th>Start Game</th>
+    <th>Game Play</th>
+    <th>Play Mobile mode</th>
   </tr>
   <tr>
     <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/live-service.png?raw=true" width="320"></td>
