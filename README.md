@@ -4,6 +4,42 @@ Here is my current updated and maintained projects.
 <!-- This version is safest for GitHub READMEs -->
 <table>
   <tr>
+    <th>Onboarding</th>
+    <th>Categorias</th>
+    <th>Meus PRs</th>
+    <th>Insights</th>
+    <th>Ajustes</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/douglastaquary/CrossfitPRApp/blob/main/docs/screenshots/onboarding.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/CrossfitPRApp/blob/main/docs/screenshots/categories.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/CrossfitPRApp/blob/main/docs/screenshots/records-empty.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/CrossfitPRApp/blob/main/docs/screenshots/insights-pro.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/CrossfitPRApp/blob/main/docs/screenshots/settings.png?raw=true" width="320"></td>
+  </tr>
+  <tr>
+    <th>Como ir</th>
+    <th>Detalhe da linha</th>
+    <th>Live tracking</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/douglastaquary/wimb/blob/main/docs/screenshots/app/directions-home.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/wimb/blob/main/docs/screenshots/app/line-detail.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/wimb/blob/main/docs/screenshots/app/live-tracking.png?raw=true" width="320"></td>
+  </tr>
+  <tr>
+    <th>Live Service</th>
+    <th>Start Game</th>
+    <th>Game Play</th>
+    <th>Play Mobile mode</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/live-service.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/title.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/gameplay.png?raw=true" width="320"></td>
+    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/mobile-landscape.png?raw=true" width="320"></td>
+  </tr>
+  <tr>
     <th>Checklist Boteco</th>
     <th>Dashboard</th>
     <th>Daily product count</th>
@@ -31,7 +67,7 @@ Here is my current updated and maintained projects.
     <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/04-pix-pagamento.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/beco-da-praia-menu/blob/main/docs/screenshots/06-sucesso-cozinha.png?raw=true" width="320"></td>
   </tr>
-    <tr>
+  <tr>
     <th>Mobile Play</th>
     <th>Start mission</th>
     <th>Mobile Boss</th>
@@ -41,34 +77,18 @@ Here is my current updated and maintained projects.
     <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/mobile-play.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/mobile-title.png?raw=true" width="320"></td>
     <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/mobile-boss.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/foundry-combat.png?raw=true" width="320">
-</td>
-
-</tr>
-    <tr>
-    <th>Live Service</th>
-    <th>Start Game</th>
-    <th>Game Play</th>
-    <th>Play Mobile mode</th>
+    <td><img src="https://github.com/douglastaquary/metal-warriors-demo/blob/main/docs/screenshots/foundry-combat.png?raw=true" width="320"></td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/live-service.png?raw=true" width="320"></td>
-  </td>
-    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/title.png?raw=true" width="320">
-  </td>
-    <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/gameplay.png?raw=true" width="320">
-      <td><img src="https://github.com/douglastaquary/kitchen-chaos/blob/main/docs/screenshots/mobile-landscape.png?raw=true" width="320">
-</td>
-    
 </table>
 
+* [CrossfitPR](https://github.com/douglastaquary/CrossfitPRApp) Organize your personal records on CrossFit workouts — histórico, insights e Apple Watch.
+* [Where Is My Bus (WIMB)](https://github.com/douglastaquary/wimb/tree/main) App iOS para acompanhar ônibus em tempo real em São Paulo (API Olho Vivo / SPTrans).
+* [Kitchen Chaos](https://github.com/douglastaquary/kitchen-chaos) Demo de um jogo de cozinha no estilo Overcooked, feita em Three.js e Blender para rodar direto no navegador.
 * [Checklist Boteco](https://github.com/douglastaquary/checklist-boteco) AI-powered app for managing bars and pubs.
 * [Beco da Praia Menu](https://github.com/douglastaquary/beco-da-praia-menu/tree/feature/pedidos-cardapio-impressao) Beco's online menu featuring direct table-side ordering.
 * [Metal Warriors Retro](https://github.com/douglastaquary/metal-warriors-demo) Game Retro em rolagem lateral, com a alma dos 16 bits. Uma homenagem a Metal Warriors (SNES) feita em Three.js e jogável direto no navegador.
-* [Kichen Chaos](https://github.com/douglastaquary/kitchen-chaos/tree/main) Demo de um jogo de cozinha no estilo Overcooked, feita em Three.js e Blender para rodar direto no navegador.
 
-
-Follow me on: 
+Follow me on:
 * Twitter: `https://x.com/bluesprogrammer`
 * Mastodon: `https://mastodon.social/@bluesprogrammer`
 
